@@ -1,0 +1,221 @@
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  cd DevOps/
+    5  ls -a
+    6  cd devops_bootcamp_linux/
+    7  gti add .
+    8  git add .
+    9  git commit -m 'added content to my README file'
+   10  git config --global user.email "michal.nowakb@gmail.com"
+   11  git config --global user.name "Michal Nowak"
+   12  git commit -m 'added content to my README file'
+   13  git push origin main
+   14  vagrant up
+   15  vagrant up
+   16  vagrant status
+   17  vagrant
+   18  vagrant --version
+   19  ls
+   20  cd Desktop/
+   21  ls
+   22  cd DevOps/
+   23  mkdir Test
+   24  cd Test/
+   25  touch Vagrantfile
+   26  ls
+   27  nano Vagrantfile 
+   28  vagrant up
+   29  vagrant status
+   30  clear
+   31  vagrant ssh
+   32  vagrant ssh
+   33  nano Vagrantfile 
+   34  cat Vagrantfile 
+   35  vagrant destroy
+   36  sudo apt-get update -y
+   37  uname
+   38  vagrant ssh
+   39  nano Vagrantfile
+   40  vagrant up
+   41  vagrant destroy
+   42  vagrant up
+   43  vagrant up
+   44  vagrant ssh
+   45  nano Vagrantfile
+   46  vagrant ssh
+   47  vagrant destroy
+   48  clear
+   49  cat Vagrantfile 
+   50  nano Vagrantfile 
+   51  Vagrant up
+   52  vagrant ssh
+   53  cat Vagrantfile 
+   54  vagrant destroy
+   55  vagrant up
+   56  vagrant status
+   57  vagrant ssh
+   58  vagrant destroy
+   59  cd ~/.ssh/
+   60  ls
+   61  pwd
+   62  ssh-keygen -t rsa -b 4096 -c "michal.nowakb@gmail.com"
+   63  ssh -keygen -t rsa -b 4096 -c "michal.nowakb@gmail.com"
+   64  ssh-keygen -t rsa -b 4096 -c "michal.nowakb@gmail.com"
+   65  ssh-keygen -t rsa -b 4096 -c michal.nowakb@gmail.com
+   66  ssh-keygen -t rsa -b 4096 -C michal.nowakb@gmail.com
+   67  ls
+   68  cat id_rsa.pub
+   69  cd Desktop/
+   70  cd DevOps/
+   71  ls
+   72  cd devops_bootcamp_linux/
+   73  ls
+   74  nano README.md 
+   75  git status
+   76  git add README.md 
+   77  git commit -m 'updated README file with intro to DevOps and benefits to it, also added configuration to add SSH key to our GitHub account'
+   78  git push origin main
+   79  git status
+   80  cd ~/.ssh/
+   81  pwd
+   82  vagrant up
+   83  vagrant init
+   84  cd Desktop/
+   85  cd DevOps/
+   86  ls
+   87  cd Test/
+   88  vagrant up
+   89  vagrant ssh
+   90  nano .gitignore
+   91  cat .gitignore
+   92  ls
+   93  nano .gitignore 
+   94  git status
+   95  nano README.md
+   96  vagrant destroy
+   97  cd ...
+   98  cd ..
+   99  cd Vagrant/
+  100  git init
+  101  git status
+  102  git add .
+  103  git commit -m "Vagrant file, and permission in README and gitignore"
+  104  git push origin main
+  105  git branch -M main
+  106  git remote add origin https://github.com/michalnowakb/Vagrant
+  107  git push -u origin main
+  108  cd Desktop/
+  109  cd DevOps/
+  110  ls
+  111  cd DevOps_interview_preparation/
+  112  ls
+  113  nano README.md 
+  114  git status
+  115  git add .
+  116  git status
+  117  git commit -m 'updated README file with interview preparation data'
+  118  git push origin main
+  119  git status
+  120  cd Desktop/
+  121  cd DevOps/
+  122  ls
+  123  cd Vagrant/
+  124  vagrant up
+  125  vagrant ssh
+  126  vagrant reload
+  127  vagrant status
+  128  vagrant ssh
+  129  vagrant reload
+  130  vagrant ssh
+  131  vagrant destroy
+  132  vagrant up
+  133  vagrant reload
+  134  vagrant destroy
+  135  vagrant status
+  136  vagrant up
+  137  vagrant up
+  138  vagrant up
+  139  cd Desktop/
+  140  cd DevOps/
+  141  cd Vagrant/
+  142  vagrant up
+  143  vagrant ssh
+  144  vagrant destroy
+  145  vagrant status
+  146  vagrant destroy
+  147  vagrant up
+  148  vagrant status
+  149  vagrant destroy
+  150  vagrant up
+  151  vagrant destroy
+  152  vagrant up
+  153  vagrant up
+  154  vagrant destroy
+  155  vagrant up
+  156  vagrant destroy
+  157  vagrant up
+  158  vagrant ssh
+  159  clear
+  160  ls
+  161  vagrant up
+  162  vagrant status
+  163  vagrant ssh
+  164  vagrant destroy
+  165  cd Desktop/
+  166  cd DevOps/
+  167  ls
+  168  cd Vagrant/
+  169  ls
+  170  vagrant up
+  171  cd app
+  172  ls
+  173  nano provision.sh 
+  174  vagrant destroy
+  175  vagrant up
+  176  vagrant destroy
+  177  vagrant destroy
+  178  cd ..
+  179  git status
+  180  git add .
+  181  git commit -m 'new commands added for vagrant, script to run app added'
+  182  git push origin main
+  183  cd Desktop/
+  184  cd DevOps/
+  185  cd Vagrant/
+  186  vagrant up
+  187  vagrant ssh
+  188  vagrant ssh
+  189  vagrant destroy
+  190  vagrant up
+  191  vagrant ssh
+  192  vagrant destroy
+  193  vagrant up
+  194  vagrant ssh
+  195  vagrant destroy
+  196  vagrant up
+  197  vagrant ssh
+  198  vagrant destroy
+  199  clear
+  200  vagrant up
+  201  vagrant status
+  202  vagrant ssh
+  203  vagrant destroy
+  204  vagrant up
+  205  vagrant status
+  206  vagrant destroy
+  207  vagrant up
+  208  vagrant ssh
+  209  vagrant destroy
+  210  vagrant up
+  211  vagrant ssh
+  212  vagrant destroy
+  213  vagrant up
+  214  vagrant ssh
+  215  vagrant destroy
+  216  vagrant up
+  217  vagrant status
+  218  vagrant destroy
+  219  vagrant up
+  220  vagrant status
+  221  history >instruction.txt

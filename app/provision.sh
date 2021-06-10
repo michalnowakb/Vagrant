@@ -20,4 +20,4 @@ cd app
 
 sudo npm install
 
-node app.js
+# node app.js
